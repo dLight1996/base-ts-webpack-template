@@ -2,9 +2,9 @@ import React from 'react';
 
 function App() {
   return (
-   <div>
-       running
-   </div>
+    <div>
+      react-ts-webpack-template
+    </div>
   );
 }
 
